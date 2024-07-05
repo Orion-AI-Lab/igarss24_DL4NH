@@ -57,7 +57,7 @@ For access to the in-person tutorial, [registration](https://2023.ieeeigarss.org
 
 Time: Sun, 7 Jul, 16:00 - 19:00 Easter European Summer Time (EEST)
 
-Location: TBA
+Location: MC 3 Hall, MAICC, Athens Greece 
 
 ## Contact us 
 
