@@ -10,6 +10,10 @@ Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioan
 
 (2) [Image & Signal Processing Group](https://isp.uv.es/), Universitat de València
 
+## Previous Versions
+
+* [2023 DL4NH IGARSS, Pasadena USA](https://github.com/Orion-AI-Lab/igarss23_DL4NH)
+
 ## 🕸️ Agenda & Quick Links
 
 | Time          | Title          | Resources                       | Presenter         |
@@ -62,3 +66,7 @@ Location: MC 3 Hall, MAICC, Athens Greece
 ## Contact us 
 
 For any communication about this tutorial, [please submit an issue](https://github.com/Orion-AI-Lab/igarss23_DL4NH/issues/new/choose) or [email us](mailto:ipapoutsis@noa.gr).
+
+## Acknowledgements
+
+This work has received funding from the European Union’s research and innovation projects DeepCube and TREEADS, under grant agreement numbers 101004188 and 101036926 respectively.
