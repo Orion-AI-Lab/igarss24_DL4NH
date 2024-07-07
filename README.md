@@ -57,7 +57,7 @@ The users are required to have a laptop equipped with a modern browser.
 
 ## Access 
 
-For access to the in-person tutorial, [registration](https://2023.ieeeigarss.org/registration.asp) is needed. All material (jupyter notebooks, presentations) will be made freely available through this repository.
+For access to the in-person tutorial, registation is needed. All material (jupyter notebooks, presentations) will be made freely available through this repository.
 
 Time: Sun, 7 Jul, 16:00 - 19:00 Easter European Summer Time (EEST)
 
