@@ -20,8 +20,8 @@ Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioan
 |---------------|----------------|---------------------------------|-------------------|
 | 16.00 - 16.15   | Introduction   | [slides](https://docs.google.com/presentation/d/13lw30timAkBxFZdK5bjuVf9pnPOJC3Ut/edit?usp=drive_link&ouid=103666319609428787109&rtpof=true&sd=true)                | Ioannis Papoutsis |
 | 16.15 - 17.30  | Spatiotemporal Datacubes for Earth System Modeling | [slides](https://docs.google.com/presentation/d/15KGojGurKJSj3t9N48wKMCVtxVSbSHaN2VboDnwtlDA/edit?usp=drive_link) [notebook](https://colab.research.google.com/drive/1NY-a5cYLLfMwrTFigY5VczKym849MkN4?usp=drive_link)  | Ioannis Prapas    |
-| 17.30 - 18.15 | Advanced ML methods for Natural Hazard Monitoring | TBA                | Nikolaos Bountos, Maria Sdraka  |
-| 18.15 - 19.00 |  Probabilistic ML in Natural Hazards| TBA  | Spyros Kondylatos |
+| 17.30 - 18.15 | Advanced ML methods for Natural Hazard Monitoring | [notebook](https://drive.google.com/file/d/1uPJv3sqboHExOem9X2q_mzPqfIqeodzk/view?usp=drive_link)                | Nikolaos Bountos, Maria Sdraka  |
+| 18.15 - 19.00 |  Probabilistic ML in Natural Hazards| [slides](https://docs.google.com/presentation/d/1wqmp-dySFcVE7bWHFy5O-Nk_mcmiZTQLiDl8YnhFQJ8/edit?usp=drive_link) [notebook](https://colab.research.google.com/drive/1zCruqMbsoQkLWX8UEnt_RnBDQEfBjsdq?usp=drive_link)  | Spyros Kondylatos |
 
 Link to all resources: [gdrive](https://drive.google.com/drive/folders/1kKqHuIQkoLPwgrR3DTbY-ZkRv8CCYM46?usp=drive_link)
 
